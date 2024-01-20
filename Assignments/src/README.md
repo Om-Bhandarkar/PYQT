@@ -1,6 +1,6 @@
-<li><a href="">Assignment1</a></li>
-<li><a href="">Assignment2</a></li>
-<li><a href="">Assignment3</a></li>
+<li><a href="https://github.com/Om-Bhandarkar/PYQT/blob/main/Assignments/src/Assignment1.py">Assignment1</a></li>
+<li><a href="https://github.com/Om-Bhandarkar/PYQT/blob/main/Assignments/src/Assignment2.py">Assignment2</a></li>
+<li><a href="https://github.com/Om-Bhandarkar/PYQT/blob/main/Assignments/src/Assignment3.py">Assignment3</a></li>
 
 
 #  ScreenShots :-
